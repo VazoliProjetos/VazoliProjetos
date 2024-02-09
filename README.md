@@ -12,4 +12,4 @@ Tecnologias de desenvolvimento:
 </div>
 
 
-Que a força (do código) esteja com você! 💻🤓
+Que a força (do código) esteja com você! 💻<a href="https://github.com/AlexandrePanella-Vazoli">🤓</a>
